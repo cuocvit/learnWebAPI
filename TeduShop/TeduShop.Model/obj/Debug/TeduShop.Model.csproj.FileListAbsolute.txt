@@ -1,0 +1,12 @@
+D:\TEDU_WebAPI\TeduShop\TeduShop\TeduShop.Model\bin\Debug\TeduShop.Model.dll.config
+D:\TEDU_WebAPI\TeduShop\TeduShop\TeduShop.Model\bin\Debug\TeduShop.Model.dll
+D:\TEDU_WebAPI\TeduShop\TeduShop\TeduShop.Model\bin\Debug\TeduShop.Model.pdb
+D:\TEDU_WebAPI\TeduShop\TeduShop\TeduShop.Model\bin\Debug\EntityFramework.dll
+D:\TEDU_WebAPI\TeduShop\TeduShop\TeduShop.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\TEDU_WebAPI\TeduShop\TeduShop\TeduShop.Model\bin\Debug\EntityFramework.xml
+D:\TEDU_WebAPI\TeduShop\TeduShop\TeduShop.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\TEDU_WebAPI\TeduShop\TeduShop\TeduShop.Model\obj\Debug\TeduShop.Model.csproj.AssemblyReference.cache
+D:\TEDU_WebAPI\TeduShop\TeduShop\TeduShop.Model\obj\Debug\TeduShop.Model.csproj.CoreCompileInputs.cache
+D:\TEDU_WebAPI\TeduShop\TeduShop\TeduShop.Model\obj\Debug\TeduShop.Model.csproj.CopyComplete
+D:\TEDU_WebAPI\TeduShop\TeduShop\TeduShop.Model\obj\Debug\TeduShop.Model.dll
+D:\TEDU_WebAPI\TeduShop\TeduShop\TeduShop.Model\obj\Debug\TeduShop.Model.pdb

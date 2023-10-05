@@ -1,0 +1,6 @@
+D:\TEDU_WebAPI\TeduShop\TeduShop\TeduShop.Common\bin\Debug\TeduShop.Common.dll
+D:\TEDU_WebAPI\TeduShop\TeduShop\TeduShop.Common\bin\Debug\TeduShop.Common.pdb
+D:\TEDU_WebAPI\TeduShop\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.csproj.AssemblyReference.cache
+D:\TEDU_WebAPI\TeduShop\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.csproj.CoreCompileInputs.cache
+D:\TEDU_WebAPI\TeduShop\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.dll
+D:\TEDU_WebAPI\TeduShop\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.pdb
